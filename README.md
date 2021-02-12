@@ -8,7 +8,7 @@ The total number of days taken to finsh project is 15 days.
 This repo is part of the 30 day internship project done at Military Communications Department, Bharat Electronics Limited. This internship was done during the month of June 2020.
 
 ## Description
-The web scraper is built for government websites as the aim to be achieved. A proper explanation is available in the Documentation. 
+The web scraper is built for government websites (aim to be achieved). A proper explanation is available in the Documentation(BasicWebScrapingApplication.pdf). 
 
 Given below image is terminal image of NPM running as backend
 
